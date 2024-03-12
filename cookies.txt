@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+g4brycsca41010.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1710273284|b5l0G7FfEKHz
+g4brycsca41010.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+g4brycsca41010.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=84_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0141ccf485e5f5977780a7ab54c01a8252ac9577342cf886c3391d7d04e313be65a3fa61f5bb361b7958156e106616b56d1a26c88d
+
